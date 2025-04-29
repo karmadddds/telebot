@@ -16,7 +16,7 @@ session_name = 'session_name'
 # ✅ Source dan target channel
 source_channel_id = -1002392849191  # Ubah ke ID channel privat (t.me/c/...)
 target_channel_link = "https://t.me/+ZrqxCEDUiFQ0NzM5"
-start_message = 1
+start_message = 55
 end_message = 630
 
 # ✅ Ukuran maksimal video (600MB)
